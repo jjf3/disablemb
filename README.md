@@ -1,0 +1,2 @@
+# disablemb
+disables user mailbox
